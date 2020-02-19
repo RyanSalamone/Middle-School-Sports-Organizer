@@ -6,14 +6,14 @@ This application was built for our Second porject and uses all of our knowledge 
 
 Technologies used in this project are:
 
--Materialize
--JQuery
--JavaSCript
--MySQL
--Sequelize
--Node.JS
--Express
--Handlebars
+- Materialize
+- JQuery
+- JavaSCript
+- MySQL
+- Sequelize
+- Node.JS
+- Express
+- Handlebars
 
 To Run This application with existing seed data and creating new additions to the database - please do the following:
 
