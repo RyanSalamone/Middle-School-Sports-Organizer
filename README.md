@@ -1,10 +1,10 @@
-# Proj-2
+# Middle School Sports Organizer
 
 A Web Application, created to manage a schools' sports teams - in relation to Students, Adults, and Rosters. All connected in an SQL database.
 
 This application was built for our Second porject and uses all of our knowledge that has been taught to us thus far.
 
-Technologies used in this project are:
+# Technologies used in this project are:
 
 - Materialize
 - JQuery
@@ -14,6 +14,10 @@ Technologies used in this project are:
 - Node.JS
 - Express
 - Handlebars
+
+![alt text](MiddleSchoolSports.gif "Middle School")
+
+# Run
 
 To Run This application with existing seed data and creating new additions to the database - please do the following:
 
